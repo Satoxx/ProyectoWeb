@@ -23,4 +23,4 @@ urlpatterns = [
     path('', include('ProyectoWebApp.urls')),
 ]
 
-
+#incluimos los urls de creados en ProyectoWebApp
